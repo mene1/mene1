@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<br><br>
 
-<!--
-**mene1/mene1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/307661022309777409?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Offline)](https://discord.com/users/307661022309777409)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=c9d1d9&bg_color=0d1117" alt="Renato Menezes github stats" /> 
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--!img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bd2f4&height=95&section=footer"/-->
+
+<div align="center">
+  <a href="https://t.me/menerenato"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://instagram.com/menerenato"><img src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <br><br>
+  </div>
