@@ -4,8 +4,8 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/307661022309777409?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Offline)](https://discord.com/users/307661022309777409)
 
 <div align="center">  
-  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=c9d1d9&bg_color=0d1117" alt="Renato Menezes github stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
+  <img width="50%" height="190px" src="https://github-readme-stats-azure-kappa-83.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=c9d1d9&bg_color=0d1117" alt="Renato Menezes github stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats-azure-kappa-83.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
 </div>
 
 <!--!img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bd2f4&height=95&section=footer"/-->
