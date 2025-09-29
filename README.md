@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="50%" height="190px" src="https://github-readme-stats-azure-kappa-83.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=c9d1d9&bg_color=0d1117" alt="Renato Menezes github stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats-azure-kappa-83.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
+  <img width="41%" height="190px" src="https://github-readme-stats-c1ut3qidv-menes-projects-e9d5dbe4.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
 </div>
 
 <!--!img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bd2f4&height=95&section=footer"/-->
