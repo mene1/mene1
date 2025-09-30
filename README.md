@@ -4,9 +4,19 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/307661022309777409?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Offline)](https://discord.com/users/307661022309777409)
 
 <div align="center">  
-  <img width="50%" height="190px" src="https://github-readme-stats-mene.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=c9d1d9&bg_color=0d1117" alt="Renato Menezes github stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats-mene.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
+  <img height="190px" src="https://github-readme-stats-mene.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=c9d1d9&bg_color=0d1117" alt="Renato Menezes github stats" /> 
+  <img height="190px" src="https://github-readme-stats-mene.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
 </div>
+
+<div style ="display"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+##
 
 <div align="center">
   <a href="https://instagram.com/menerenato"><img src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
