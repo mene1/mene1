@@ -8,10 +8,11 @@
   <img width="41%" height="190px" src="https://github-readme-stats-mene.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=5bd2f4&bg_color=0d1117" />
 </div>
 
-<!--!img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bd2f4&height=95&section=footer"/-->
-
 <div align="center">
-  <a href="https://t.me/menerenato"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://instagram.com/menerenato"><img src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/menerenato"><img src="https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/menerenato"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <!--a href="https://www.linkedin.com/in/menerenato"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/menerenato"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white"></a-->
+  <a href="mailto:RenatoLedo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <br><br>
   </div>
