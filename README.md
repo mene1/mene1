@@ -7,8 +7,8 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/307661022309777409?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Offline)](https://discord.com/users/307661022309777409)
 
 <div align="center">  
-  <img height="190px" src="https://github-readme-stats-mene.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=d3dbe3&bg_color=0d1117" alt="Mene github stats" /> 
-  <img height="190px" src="https://github-readme-stats-mene.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=d3dbe3&bg_color=0d1117" />
+  <img height="190px" src="https://github-readme-mene.vercel.app/api?username=Mene1&show_icons=true&count_private=true&hide_border=true&title_color=5bd2f4&icon_color=5bd2f4&text_color=d3dbe3&bg_color=0d1117" alt="Mene github stats" /> 
+  <img height="190px" src="https://github-readme-mene.vercel.app/api/top-langs/?username=Mene1&layout=compact&hide_border=true&title_color=5bd2f4&text_color=d3dbe3&bg_color=0d1117" />
 </div>
 
 <div style ="display"><br>
