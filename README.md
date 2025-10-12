@@ -1,4 +1,4 @@
-### ⚠ CAUTION ⚠ *currently updating...* 🛠
+### ⚠ *Currently updating...* 🛠
 **but while you're here:**
 <br><br>
 
